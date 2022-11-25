@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="774bf8d0-8866-4fcb-9aae-f8ac2f24cbab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Exercise Files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch02/02_02_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch02/02_02_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch02/02_02_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_02_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_02_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_02_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_02_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_02_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_02_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_03_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_03_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_03_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_03_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_03_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_03_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_04_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_04_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_04_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_04_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_04_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_04_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_05_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_05_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_05_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_05_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_05_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_05_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_06_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_06_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_06_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_06_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_06_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_06_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_07_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_07_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_07_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_07_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_07_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_07_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_08_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_08_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_08_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_08_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_08_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_08_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_09_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_09_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_09_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_09_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_09_start/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_09_start/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_10_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_10_end/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_10_end/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_10_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_10_start/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_10_start/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.gradle/3.3/taskArtifacts/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jre7_1_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jre8_1_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/classes/main/Com_tekadept_demo_mainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/classes/main/FizzbuzzKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/classes/main/META-INF/demo_main.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin-build/caches/artifact-difference.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin-build/caches/artifact-difference.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin-build/caches/artifact-difference.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin-build/caches/artifact-difference.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin-build/caches/artifact-difference.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin-build/caches/artifact-difference.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin-build/caches/artifact-difference.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin-build/caches/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin-classes/main/Com_tekadept_demo_mainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin-classes/main/FizzbuzzKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin-classes/main/META-INF/demo_main.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/counters.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/data-container-format-version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/experimental-format-version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/format-version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/gradle-format-version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/build/kotlin/compileKotlin/sync/kotlin-files-in-java-timestamps.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/src/main/kotlin/com.tekadept.demo.main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch03/03_11_end/src/main/kotlin/fizzbuzz.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_01_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_01_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_01_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_01_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_01_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_01_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_02_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_02_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_02_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_02_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_02_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_02_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_03_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_03_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_03_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_03_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_03_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_03_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_04_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_04_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_04_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_04_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_04_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_04_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_05_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_05_end/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_05_end/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_05_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_05_start/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_05_start/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_06_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_06_end/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_06_end/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_06_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_06_start/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch04/04_06_start/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_01_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_01_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_01_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_01_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_01_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_01_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_02_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_02_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_02_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_02_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_02_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch05/05_02_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_01_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_01_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_01_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_01_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_01_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_01_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_02_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_02_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_02_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_02_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_02_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_02_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_03_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_03_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_03_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_03_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_03_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_03_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_04_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_04_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_04_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_04_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_04_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_04_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_05_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_05_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_05_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_05_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_05_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_05_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_06_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_06_end/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_06_end/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_06_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_06_start/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_06_start/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_07_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_07_end/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_07_end/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_07_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_07_start/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch06/06_07_start/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_02_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_02_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_02_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_02_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_02_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_02_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_03_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_03_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_03_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_03_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_03_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_03_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_04_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_04_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_04_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_04_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_04_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_04_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_05_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_05_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_05_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_05_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_05_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_05_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_06_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_06_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_06_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_06_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_06_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_06_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_07_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_07_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_07_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_07_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_07_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_07_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_08_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_08_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_08_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_08_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_08_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_08_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_09_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_09_end/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_09_end/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_09_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_09_start/.idea/modules/demo_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_09_start/.idea/modules/demo_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_10_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_10_end/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_10_end/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_10_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_10_start/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_10_start/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_11_end/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_11_end/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_11_end/.idea/modules/demo.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_11_start/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_11_start/.idea/modules/demo.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch07/07_11_start/.idea/modules/demo.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.gradle/3.3/taskArtifacts/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.gradle/3.3/taskArtifacts/fileSnapshots.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.gradle/3.3/taskArtifacts/taskArtifacts.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.gradle/3.3/taskArtifacts/taskArtifacts.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jre7_1_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jre8_1_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/modules/demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/modules/demo.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/.idea/modules/demo.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/classes/main/FizzbuzzKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/classes/main/META-INF/demo_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin-build/caches/artifact-difference.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin-build/caches/artifact-difference.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin-build/caches/artifact-difference.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin-build/caches/artifact-difference.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin-build/caches/artifact-difference.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin-build/caches/artifact-difference.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin-build/caches/artifact-difference.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin-build/caches/version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin-classes/main/Com_tekadept_demo_mainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin-classes/main/FizzbuzzKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin-classes/main/META-INF/demo_main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/increCache.demo_main/kotlin/sources-to-classfiles.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/caches/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/data-container-format-version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/experimental-format-version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/format-version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/gradle-format-version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/build/kotlin/compileKotlin/sync/kotlin-files-in-java-timestamps.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/src/main/kotlin/com.tekadept.demo.main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_11_end/src/main/kotlin/fizzbuzz.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Ch02/02_02_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_02_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_02_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_03_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_03_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_04_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_04_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_05_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_05_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_06_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_06_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_07_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_07_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_08_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_08_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_09_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_09_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_10_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_10_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch03/03_11_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_01_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_01_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_02_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_02_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_03_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_03_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_04_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_04_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_05_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_05_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_06_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch04/04_06_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch05/05_01_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch05/05_01_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch05/05_02_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch05/05_02_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_01_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_01_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_02_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_02_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_03_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_03_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_04_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_04_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_05_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_05_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_06_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_06_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_07_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch06/06_07_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_02_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_02_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_03_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_03_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_04_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_04_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_05_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_05_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_06_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_06_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_07_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_07_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_08_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_08_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_09_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_09_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_10_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_10_start">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_11_end">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Ch07/07_11_start">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2HMux7z4dBaUtfnqi7WpRKzl2qA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="774bf8d0-8866-4fcb-9aae-f8ac2f24cbab" name="Changes" comment="" />
+      <created>1668107528901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668107528901</updated>
+      <workItem from="1668107536394" duration="1178000" />
+      <workItem from="1668163601019" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
